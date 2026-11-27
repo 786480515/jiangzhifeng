@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/jiangzhifeng/</loc>
   </url><url>
+    <loc>http://localhost:1313/jiangzhifeng/posts/</loc>
+  </url><url>
     <loc>http://localhost:1313/jiangzhifeng/tags/</loc>
   </url>
 </urlset>
