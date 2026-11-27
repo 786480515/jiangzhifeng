@@ -1,0 +1,8 @@
+baseURL = 'https://786480515.github.io/jiangzhifeng/'
+languageCode = 'zh-cn'
+title = 'jiangzhifeng'
+theme = 'PaperMod'
+publishDir = "docs"
+enableGitInfo = true
+[params]
+    description = "我的博客"
